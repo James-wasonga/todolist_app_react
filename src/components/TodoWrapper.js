@@ -49,3 +49,5 @@ const editTask = (task, id) => {
     </div>
   )
 }
+
+export default TodoWrapper
